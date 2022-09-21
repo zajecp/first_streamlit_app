@@ -1,5 +1,6 @@
 import streamlit
 
-streamlit.title('Something')
-streamlit.header('Something2')
-streamlit.text('Something3')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
